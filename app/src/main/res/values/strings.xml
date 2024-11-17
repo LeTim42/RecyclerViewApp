@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Список задач</string>
+    <string name="add_task">Добавить задачу</string>
+    <string name="task_done">Выполнено</string>
+    <string name="add">Добавить</string>
+    <string name="cancel">Отмена</string>
+</resources>
